@@ -1,0 +1,14 @@
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.csproj.AssemblyReference.cache
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.AssemblyInfoInputs.cache
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.AssemblyInfo.cs
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.csproj.CoreCompileInputs.cache
+E:\C# Projects\Basic_console_apps\Basic_console_apps\bin\Debug\netcoreapp3.1\Basic_console_apps.exe
+E:\C# Projects\Basic_console_apps\Basic_console_apps\bin\Debug\netcoreapp3.1\Basic_console_apps.deps.json
+E:\C# Projects\Basic_console_apps\Basic_console_apps\bin\Debug\netcoreapp3.1\Basic_console_apps.runtimeconfig.json
+E:\C# Projects\Basic_console_apps\Basic_console_apps\bin\Debug\netcoreapp3.1\Basic_console_apps.runtimeconfig.dev.json
+E:\C# Projects\Basic_console_apps\Basic_console_apps\bin\Debug\netcoreapp3.1\Basic_console_apps.dll
+E:\C# Projects\Basic_console_apps\Basic_console_apps\bin\Debug\netcoreapp3.1\Basic_console_apps.pdb
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.dll
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.pdb
+E:\C# Projects\Basic_console_apps\Basic_console_apps\obj\Debug\netcoreapp3.1\Basic_console_apps.genruntimeconfig.cache
