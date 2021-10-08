@@ -1,0 +1,16 @@
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.AssemblyReference.cache
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.Form1.resources
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.GenerateResource.cache
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+D:\AE2OP_OOP\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+D:\AE2OP_OOP\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+D:\AE2OP_OOP\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+D:\AE2OP_OOP\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+D:\AE2OP_OOP\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+D:\AE2OP_OOP\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+D:\AE2OP_OOP\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
