@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Projects\\Assignment_0\\PaymentCalculator\\PaymentCalculator.csproj",
+      "projectUniqueName": "D:\\AE2OP_OOP\\Assignment_0\\PaymentCalculator\\PaymentCalculator.csproj",
       "projectName": "PaymentCalculator",
-      "projectPath": "E:\\C# Projects\\Assignment_0\\PaymentCalculator\\PaymentCalculator.csproj",
+      "projectPath": "D:\\AE2OP_OOP\\Assignment_0\\PaymentCalculator\\PaymentCalculator.csproj",
       "packagesPath": "C:\\Users\\АЛЁНА\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Projects\\Assignment_0\\PaymentCalculator\\obj\\",
+      "outputPath": "D:\\AE2OP_OOP\\Assignment_0\\PaymentCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

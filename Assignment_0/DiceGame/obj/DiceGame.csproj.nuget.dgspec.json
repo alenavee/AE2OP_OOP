@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# Projects\\Assignment_0\\DiceGame\\DiceGame.csproj": {}
+    "D:\\AE2OP_OOP\\Assignment_0\\DiceGame\\DiceGame.csproj": {}
   },
   "projects": {
-    "E:\\C# Projects\\Assignment_0\\DiceGame\\DiceGame.csproj": {
+    "D:\\AE2OP_OOP\\Assignment_0\\DiceGame\\DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# Projects\\Assignment_0\\DiceGame\\DiceGame.csproj",
+        "projectUniqueName": "D:\\AE2OP_OOP\\Assignment_0\\DiceGame\\DiceGame.csproj",
         "projectName": "DiceGame",
-        "projectPath": "E:\\C# Projects\\Assignment_0\\DiceGame\\DiceGame.csproj",
+        "projectPath": "D:\\AE2OP_OOP\\Assignment_0\\DiceGame\\DiceGame.csproj",
         "packagesPath": "C:\\Users\\АЛЁНА\\.nuget\\packages\\",
-        "outputPath": "E:\\C# Projects\\Assignment_0\\DiceGame\\obj\\",
+        "outputPath": "D:\\AE2OP_OOP\\Assignment_0\\DiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

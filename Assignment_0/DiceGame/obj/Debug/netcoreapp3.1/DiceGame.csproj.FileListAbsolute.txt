@@ -26,3 +26,17 @@ E:\C# Projects\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.Cor
 E:\C# Projects\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
 E:\C# Projects\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
 E:\C# Projects\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache
+D:\AE2OP_OOP\Assignment_0\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.exe
+D:\AE2OP_OOP\Assignment_0\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+D:\AE2OP_OOP\Assignment_0\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+D:\AE2OP_OOP\Assignment_0\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+D:\AE2OP_OOP\Assignment_0\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.dll
+D:\AE2OP_OOP\Assignment_0\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.pdb
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.AssemblyReference.cache
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
+D:\AE2OP_OOP\Assignment_0\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache

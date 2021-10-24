@@ -12,3 +12,17 @@ E:\C# Projects\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCal
 E:\C# Projects\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.dll
 E:\C# Projects\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.pdb
 E:\C# Projects\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.genruntimeconfig.cache
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\bin\Debug\netcoreapp3.1\PaymentCalculator.exe
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\bin\Debug\netcoreapp3.1\PaymentCalculator.deps.json
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\bin\Debug\netcoreapp3.1\PaymentCalculator.runtimeconfig.json
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\bin\Debug\netcoreapp3.1\PaymentCalculator.runtimeconfig.dev.json
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\bin\Debug\netcoreapp3.1\PaymentCalculator.dll
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\bin\Debug\netcoreapp3.1\PaymentCalculator.pdb
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.csproj.AssemblyReference.cache
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.AssemblyInfoInputs.cache
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.AssemblyInfo.cs
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.csproj.CoreCompileInputs.cache
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.dll
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.pdb
+D:\AE2OP_OOP\Assignment_0\PaymentCalculator\obj\Debug\netcoreapp3.1\PaymentCalculator.genruntimeconfig.cache
