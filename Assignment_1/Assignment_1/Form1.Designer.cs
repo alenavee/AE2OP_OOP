@@ -108,7 +108,6 @@ namespace Assignment_1
             this.label1.Size = new System.Drawing.Size(52, 20);
             this.label1.TabIndex = 7;
             this.label1.Text = "Model";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -118,7 +117,6 @@ namespace Assignment_1
             this.label2.Size = new System.Drawing.Size(37, 20);
             this.label2.TabIndex = 8;
             this.label2.Text = "Year";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -128,7 +126,6 @@ namespace Assignment_1
             this.label3.Size = new System.Drawing.Size(74, 20);
             this.label3.TabIndex = 9;
             this.label3.Text = "Start (km)";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -138,7 +135,6 @@ namespace Assignment_1
             this.label4.Size = new System.Drawing.Size(68, 20);
             this.label4.TabIndex = 10;
             this.label4.Text = "End (km)";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
@@ -148,7 +144,6 @@ namespace Assignment_1
             this.label5.Size = new System.Drawing.Size(128, 20);
             this.label5.TabIndex = 11;
             this.label5.Text = "Fuel Consumption";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label6
             // 
@@ -158,7 +153,6 @@ namespace Assignment_1
             this.label6.Size = new System.Drawing.Size(85, 20);
             this.label6.TabIndex = 12;
             this.label6.Text = "Travel Time";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // button2
             // 
@@ -168,7 +162,7 @@ namespace Assignment_1
             this.button2.TabIndex = 13;
             this.button2.Text = "Trip Distance";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.distance_Click);
+            this.button2.Click += new System.EventHandler(this.Distance_Click);
             // 
             // button3
             // 
@@ -178,7 +172,7 @@ namespace Assignment_1
             this.button3.TabIndex = 14;
             this.button3.Text = "Average Speed";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.speed_Click);
+            this.button3.Click += new System.EventHandler(this.Speed_Click);
             // 
             // button4
             // 
@@ -188,7 +182,7 @@ namespace Assignment_1
             this.button4.TabIndex = 15;
             this.button4.Text = "Fuel Efficiency";
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.fuel_Click);
+            this.button4.Click += new System.EventHandler(this.Fuel_Click);
             // 
             // button5
             // 
@@ -198,7 +192,7 @@ namespace Assignment_1
             this.button5.TabIndex = 16;
             this.button5.Text = "Classify Car";
             this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.class_Click);
+            this.button5.Click += new System.EventHandler(this.Class_Click);
             // 
             // Form1
             // 

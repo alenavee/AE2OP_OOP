@@ -83,6 +83,7 @@ namespace Assignment2_WF
             if (String.IsNullOrEmpty(position.Text) || !Int32.TryParse(position.Text, out _))
             {
                 MessageBox.Show("Invalid input");
+                return;
             }
 
             try

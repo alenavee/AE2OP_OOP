@@ -21,14 +21,43 @@ namespace Assignment_1
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-
-
-            // Get the input values from textboxes
+            // Get the input values from textboxes and check for validity
             string model = txtModel.Text;
+
+            bool valid_year = int.TryParse(txtYear.Text, out _);
+            if (!valid_year)
+            {
+                MessageBox.Show("Enter valid year");
+                return;
+            }
+                         
             int year = int.Parse(txtYear.Text);
+
+            bool valid_start = int.TryParse(txtStart.Text, out _);
+            bool valid_end = int.TryParse(txtEnd.Text, out _);
+            if (!valid_start | !valid_end)
+            {
+                MessageBox.Show("Invalid start or end km");
+                return;
+            }
+
             double start = double.Parse(txtStart.Text);
             double end = double.Parse(txtEnd.Text);
+
+            bool valid_fuel = int.TryParse(txtFuel.Text, out _);
+            if (!valid_fuel)
+            {
+                MessageBox.Show("Invalid fuel value");
+                return;
+            }
             double fuel = double.Parse(txtFuel.Text);
+
+            bool valid_time = int.TryParse(txtTime.Text, out _);
+            if (!valid_time)
+            {
+                MessageBox.Show("Invalid time input");
+                return;
+            }
             double time = double.Parse(txtTime.Text);
 
 
@@ -37,67 +66,32 @@ namespace Assignment_1
 
             // Display a message to the user
             MessageBox.Show("The info about the car has been added!");
-
         }
 
 
-        private void distance_Click(object sender, EventArgs e)
+        private void Distance_Click(object sender, EventArgs e)
         {
-            double distance = newCar.GetTripLength(newCar.StartKm, newCar.EndKm);
+            double distance = newCar.GetTripLength();
             MessageBox.Show("The distance of the trip is " + distance + "km");
         }
 
-        private void speed_Click(object sender, EventArgs e)
+        private void Speed_Click(object sender, EventArgs e)
 
         {
-            double distance = newCar.GetTripLength(newCar.StartKm, newCar.EndKm);
-            double speed = newCar.GetSpeed(distance, newCar.TravelTime);
+            double speed = newCar.GetSpeed();
             MessageBox.Show("The average speed during the trip is " + Math.Round(speed, 1) + "km/h");
-
         }
 
-        private void fuel_Click(object sender, EventArgs e)
+        private void Fuel_Click(object sender, EventArgs e)
         {
-            double distance = newCar.GetTripLength(newCar.StartKm, newCar.EndKm);
-            double efficiency = newCar.GetFuelEfficiency(newCar.FuelConsumption, distance);
+            double efficiency = newCar.GetFuelEfficiency();
             MessageBox.Show("The fuel efficiency is " + Math.Round(efficiency, 1) + " litres per 100km");
         }
 
-        private void class_Click(object sender, EventArgs e)
+        private void Class_Click(object sender, EventArgs e)
         {
-            String message = newCar.ClassifyCar(newCar.Year);
+            String message = newCar.ClassifyCar();
             MessageBox.Show(message);
-        }
-
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

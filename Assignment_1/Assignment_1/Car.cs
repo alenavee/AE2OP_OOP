@@ -27,24 +27,24 @@ namespace Assignment_1
             TravelTime = time;
         }
 
-        public double GetTripLength(double StartKm, double EndKm)
+        public double GetTripLength()
         {
             return EndKm - StartKm;
         }
 
-        public double GetSpeed(double TripLength, double TravelTime)
+        public double GetSpeed()
         {
-            return TripLength / TravelTime;
+            return GetTripLength() / TravelTime;
         }
 
-        public double GetFuelEfficiency(double FuelConsumption, double TripDistance)
+        public double GetFuelEfficiency()
         {
-            return TripDistance / (FuelConsumption / 100);
+            return GetTripLength() / (FuelConsumption / 100);
         }
 
-        public string ClassifyCar(int year)
+        public string ClassifyCar()
         {
-            int CarAge = DateTime.Now.Year - year;
+            int CarAge = DateTime.Now.Year - Year;
             if (CarAge < 1)
             {
                 return "New car, enjoy it!";
