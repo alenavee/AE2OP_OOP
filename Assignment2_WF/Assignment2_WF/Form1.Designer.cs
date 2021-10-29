@@ -1,5 +1,5 @@
 ﻿
-namespace Assignment2_WF
+namespace Assignment2
 {
     partial class Form1
     {
@@ -46,11 +46,11 @@ namespace Assignment2_WF
             this.label1 = new System.Windows.Forms.Label();
             this.nextSemester = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.deleteAll = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.delete = new System.Windows.Forms.Button();
             this.position = new System.Windows.Forms.TextBox();
-            this.deleteAll = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.SemesterNum)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -149,15 +149,15 @@ namespace Assignment2_WF
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
-            this.listBox1.Location = new System.Drawing.Point(23, 288);
+            this.listBox1.Location = new System.Drawing.Point(365, 288);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(204, 104);
+            this.listBox1.Size = new System.Drawing.Size(271, 104);
             this.listBox1.TabIndex = 9;
             // 
             // listStudents
             // 
             this.listStudents.AutoSize = true;
-            this.listStudents.Location = new System.Drawing.Point(23, 241);
+            this.listStudents.Location = new System.Drawing.Point(365, 241);
             this.listStudents.Name = "listStudents";
             this.listStudents.Size = new System.Drawing.Size(111, 20);
             this.listStudents.TabIndex = 10;
@@ -206,9 +206,9 @@ namespace Assignment2_WF
             // 
             // nextSemester
             // 
-            this.nextSemester.Location = new System.Drawing.Point(23, 428);
+            this.nextSemester.Location = new System.Drawing.Point(365, 411);
             this.nextSemester.Name = "nextSemester";
-            this.nextSemester.Size = new System.Drawing.Size(204, 29);
+            this.nextSemester.Size = new System.Drawing.Size(271, 33);
             this.nextSemester.TabIndex = 14;
             this.nextSemester.Text = "Move to next semester";
             this.nextSemester.UseVisualStyleBackColor = true;
@@ -221,12 +221,31 @@ namespace Assignment2_WF
             this.groupBox3.Controls.Add(this.label2);
             this.groupBox3.Controls.Add(this.delete);
             this.groupBox3.Controls.Add(this.position);
-            this.groupBox3.Location = new System.Drawing.Point(348, 241);
+            this.groupBox3.Location = new System.Drawing.Point(12, 241);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(330, 192);
+            this.groupBox3.Size = new System.Drawing.Size(330, 212);
             this.groupBox3.TabIndex = 15;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Delete student";
+            // 
+            // deleteAll
+            // 
+            this.deleteAll.Location = new System.Drawing.Point(177, 131);
+            this.deleteAll.Name = "deleteAll";
+            this.deleteAll.Size = new System.Drawing.Size(94, 29);
+            this.deleteAll.TabIndex = 16;
+            this.deleteAll.Text = "Delete All";
+            this.deleteAll.UseVisualStyleBackColor = true;
+            this.deleteAll.Click += new System.EventHandler(this.DeleteAll_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(31, 140);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(135, 20);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Delete all students:";
             // 
             // label2
             // 
@@ -254,30 +273,11 @@ namespace Assignment2_WF
             this.position.Size = new System.Drawing.Size(125, 27);
             this.position.TabIndex = 0;
             // 
-            // deleteAll
-            // 
-            this.deleteAll.Location = new System.Drawing.Point(177, 131);
-            this.deleteAll.Name = "deleteAll";
-            this.deleteAll.Size = new System.Drawing.Size(94, 29);
-            this.deleteAll.TabIndex = 16;
-            this.deleteAll.Text = "Delete All";
-            this.deleteAll.UseVisualStyleBackColor = true;
-            this.deleteAll.Click += new System.EventHandler(this.DeleteAll_Click);
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(31, 140);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(135, 20);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Delete all students:";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(717, 494);
+            this.ClientSize = new System.Drawing.Size(741, 494);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.nextSemester);
             this.Controls.Add(this.listStudents);

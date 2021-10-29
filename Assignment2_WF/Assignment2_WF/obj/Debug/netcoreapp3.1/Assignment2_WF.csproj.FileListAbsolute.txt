@@ -5,7 +5,6 @@ D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\bin\Debug\netcoreapp3.1\Assignment2_W
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\bin\Debug\netcoreapp3.1\Assignment2_WF.dll
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\bin\Debug\netcoreapp3.1\Assignment2_WF.pdb
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.csproj.AssemblyReference.cache
-D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.Form1.resources
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.csproj.GenerateResource.cache
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.GeneratedMSBuildEditorConfig.editorconfig
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_W
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.dll
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.pdb
 D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2_WF.genruntimeconfig.cache
+D:\AE2OP_OOP\Assignment2_WF\Assignment2_WF\obj\Debug\netcoreapp3.1\Assignment2.Form1.resources
