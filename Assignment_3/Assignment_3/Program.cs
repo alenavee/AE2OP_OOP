@@ -15,7 +15,6 @@ namespace Assignment_3
             SMS new_sms = new SMS("+123456789", "Hello, how are you?");
             Console.WriteLine("SMS: ");
             new_sms.Send();
-
         }
     }
 }
