@@ -1,0 +1,14 @@
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\bin\Debug\netcoreapp3.1\Exam_Task_1.exe
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\bin\Debug\netcoreapp3.1\Exam_Task_1.deps.json
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\bin\Debug\netcoreapp3.1\Exam_Task_1.runtimeconfig.json
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\bin\Debug\netcoreapp3.1\Exam_Task_1.runtimeconfig.dev.json
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\bin\Debug\netcoreapp3.1\Exam_Task_1.dll
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\bin\Debug\netcoreapp3.1\Exam_Task_1.pdb
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.csproj.AssemblyReference.cache
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.AssemblyInfoInputs.cache
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.AssemblyInfo.cs
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.csproj.CoreCompileInputs.cache
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.dll
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.pdb
+D:\AE2OP_OOP\Exam\Exam_Task_1\Exam_Task_1\obj\Debug\netcoreapp3.1\Exam_Task_1.genruntimeconfig.cache
