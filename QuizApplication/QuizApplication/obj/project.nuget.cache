@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3EaJ1r7mVAh9AvkP2JhDwSc6SJYdp86lw45vi5NU4l9F/y1ynHFobexicUVxRgHbPZvwyUV/JtqXFOQhQ+j7Q==",
+  "success": true,
+  "projectFilePath": "E:\\AE2OP_OOP\\QuizApplication\\QuizApplication\\QuizApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALENA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ALENA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\ALENA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ALENA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ALENA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
